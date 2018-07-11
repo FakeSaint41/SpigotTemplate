@@ -1,0 +1,10 @@
+main: com.fakesaint.template.TemplateMain
+name: SpigotTemplate
+version: 1.0
+
+
+commands:
+  template:
+    description: Template command
+
+permissions:
